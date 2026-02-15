@@ -1,0 +1,16 @@
+{
+  "name": "consultingskills_public",
+  "owner": { "name": "masaki" },
+  "metadata": {
+    "description": "コンサルティングプロジェクト用のスキル・コマンド・エージェント群"
+  },
+  "plugins": [
+    {
+      "name": "consultingskills_public",
+      "source": "./",
+      "description": "提案書作成からインタビュー、報告書作成までのワークフロー管理",
+      "repository": "https://github.com/masaki69/consultingskills_public",
+      "category": "workflow"
+    }
+  ]
+}
